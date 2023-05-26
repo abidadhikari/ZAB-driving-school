@@ -344,3 +344,7 @@
 .price-card.selected {
   border: 5px solid #14bf98 !important;
 }
+
+.card-body a {
+  color: #14bf98;
+}
