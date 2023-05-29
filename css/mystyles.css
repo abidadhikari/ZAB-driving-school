@@ -307,7 +307,7 @@
   border-radius: 5px;
 }
 .price-card:hover {
-  border: 5px solid #14bf98 !important;
+  /* border: 5px solid #14bf98 !important; */
 }
 .cards-row {
   display: grid;
@@ -374,17 +374,17 @@
   border-radius: 0 !important;
 }
 #accordion .card .card-header h5 button:hover {
-  background-color: rgb(63, 177, 224);
+  background-color: #113448;
   color: #fff !important ;
 
   transition: all 0.3s ease-in-out;
 }
 #accordion .card .card-header h5 [aria-expanded="true"] {
-  background-color: rgb(63, 177, 224);
+  background-color: #113448;
   color: #fff !important ;
 }
 .card-body {
-  background-color: rgb(63, 177, 224);
+  background-color: #113448;
   color: #fff !important ;
 }
 
